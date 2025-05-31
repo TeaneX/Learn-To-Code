@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn To Code/Untitled.md",
+                "file": "Learn To Code/Programming Languages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Programming Languages"
             }
           }
         ]
@@ -169,10 +169,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73c0ac039e289d00",
+  "active": "cfd823e247c8905c",
   "lastOpenFiles": [
-    "Welcome.md",
     "Learn To Code/Untitled.md",
+    "Learn To Code/Programming Languages.md",
+    "Learn To Code/JavaScript/JavaScript.md",
+    "Learn To Code/JavaScript",
+    "Learn To Code/HTML/2. HTML Editors/HTML Edit PNG/Pasted image 20250420201634.png",
+    "Learn To Code/HTML/2. HTML Editors/HTML Edit PNG/Pasted image 20250420201325.png",
+    "Learn To Code/HTML/2. HTML Editors/HTML Edit PNG/Pasted image 20250420201154.png",
+    "Learn To Code/HTML/1. HTML Introduction/HTML Intro PNG/HTML 1.png",
+    "Learn To Code/HTML/4. HTML Elements/HTML Elements.md",
+    "Learn To Code/HTML/3. HTML Basic/HTML Basic.md",
+    "Learn To Code/HTML/2. HTML Editors/HTML Editors.md",
+    "Learn To Code/HTML/2. HTML Editors/HTML Edit PNG",
+    "Learn To Code/HTML/1. HTML Introduction/HTML Introduction.md",
+    "Learn To Code/HTML/1. HTML Introduction/HTML Intro PNG",
+    "Learn To Code/HTML/HTML.md",
+    "Learn To Code/HTML/4. HTML Elements",
+    "Learn To Code/HTML/3. HTML Basic",
+    "Learn To Code/HTML/2. HTML Editors",
+    "Learn To Code/HTML/1. HTML Introduction",
+    "Learn To Code/HTML",
+    "Learn To Code/CSS/CSS.md",
+    "Learn To Code/CSS",
+    "Welcome.md",
     "README.md",
     "Learn To Code"
   ]
