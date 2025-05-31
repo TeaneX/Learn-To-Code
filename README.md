@@ -2,6 +2,8 @@
 <div align="center">
   <img height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
 </div>
+
+
 # Programming Write-Up
 
 This repository contains a complete and personal write-up on the subject of **Programming**, encompassing everything covered throughout the course. It is designed to serve as a learning aid, revision tool, and general programming reference.
