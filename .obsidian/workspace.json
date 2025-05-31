@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hi/Untitled.md",
+                "file": "Learn To Code/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,11 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfd823e247c8905c",
+  "active": "73c0ac039e289d00",
   "lastOpenFiles": [
-    "README.md",
     "Welcome.md",
-    "Hi/Untitled.md",
-    "Hi"
+    "Learn To Code/Untitled.md",
+    "README.md",
+    "Learn To Code"
   ]
 }
